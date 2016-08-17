@@ -2,7 +2,8 @@
 Network Traffic and Packet Analyzer supporting TCP/UDP/IGMP
 
 ##Usage
-    Run in command line with
+Run in command line with
+
     ./packet-sniffer.exe
 
 ##Specs
