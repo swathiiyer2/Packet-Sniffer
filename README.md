@@ -2,9 +2,13 @@
 Network Traffic and Packet Analyzer supporting TCP/UDP/IGMP
 
 ##Usage
-Run in command line with
+Compile using
+    
+    gcc --make main.cpp
 
-    ./packet-sniffer.exe
+Run in terminal
+    
+    ./main  
 
 ##Specs
   Uses libpcap for packet capture. 
